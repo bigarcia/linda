@@ -34,4 +34,4 @@ class LindaTuplaSpace():
 
         if(len(response) != 0):
             return response
-        return False
+        return []
